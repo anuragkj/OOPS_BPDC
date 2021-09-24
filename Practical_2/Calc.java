@@ -4,7 +4,6 @@ class Calc {
   public static void main(String[] args) {
 
     char operator;
-    int aaaassy;
     Double number1, number2, result;
     Scanner input = new Scanner(System.in);
     
