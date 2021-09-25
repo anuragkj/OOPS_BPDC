@@ -3,7 +3,8 @@ public class GenPrime {
  
     
     static boolean check(int n){
-        if(n<2){
+     a   
+     if(n<2){
             return false;
         }
         else if (n == 2){
