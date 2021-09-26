@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Calc {
   public static void main(String[] args) {
 
-    char operator;111111
+    char operator;
     Double number1, number2, result;
     Scanner input = new Scanner(System.in);
     
