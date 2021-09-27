@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;1
 public class Area {
  
     
