@@ -1,4 +1,4 @@
-import java.util.Scanner;111
+import java.util.Scanner;
 
 enum Speed{
     s1,s2,s3,s4,s5;
