@@ -1,4 +1,4 @@
-import java.util.Scanner;1
+import java.util.Scanner;
 class Prism {
     private double l, w,h;
     public void setPrism(double l, double w, double h){
