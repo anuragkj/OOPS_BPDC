@@ -1,4 +1,4 @@
-class Shape{
+class Shape{1
     private float width, height, depth, volume, surfaceArea;
     private String type;
     protected Shape(float side){
